@@ -1,0 +1,19 @@
+
+.head3{
+	color: green; font-size: 30px; text-align: center; background-color: yellow; 
+	border: solid; border-color: black; 
+}
+
+#heading4{
+	color: red; font-size: 30px; text-align: center;
+}
+
+h5{
+	color: #ffffff; background-color: black; font-size: 30px; text-align: center;
+}
+
+.box{width: 80%;
+	height: 200px;
+	background-color: rgba(102,178,255,.6); border: dashed; border-color: black;
+	text-align: center; color: blue; font-size: 40px; padding-top: 150px;
+}
